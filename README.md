@@ -17,7 +17,7 @@
 https://www.java.com/zh_TW/download/windows-64bit.jsp
 ```
 
-然後把![mysql-connector-java-5.1.39-bin.jar](https://github.com/MiCoDer/TMSv113GMManager/blob/master/mysql-connector-java-5.1.39-bin.jar)
+然後把[mysql-connector-java-5.1.39-bin.jar](https://github.com/MiCoDer/TMSv113GMManager/blob/master/mysql-connector-java-5.1.39-bin.jar)
 複製到
 C:\Program Files\Java\jre1.8.0_171\lib\ext
 
